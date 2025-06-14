@@ -3,7 +3,7 @@
   "_type": "gui",
   "definition": {
     "type": 0,
-    "width": 176,
+    "width": 256,
     "height": 166,
     "inventoryOffsetX": 0,
     "inventoryOffsetY": 0,
@@ -21,24 +21,8 @@
             "value": -12829636,
             "falpha": 0.0
           },
-          "x": 132,
-          "y": 45,
-          "locked": false
-        }
-      },
-      {
-        "type": "label",
-        "data": {
-          "name": "label_programmer",
-          "text": {
-            "fixedValue": "Role: Programmer"
-          },
-          "color": {
-            "value": -12829636,
-            "falpha": 0.0
-          },
-          "x": 132,
-          "y": 58,
+          "x": 278,
+          "y": 165,
           "locked": false
         }
       },
@@ -47,7 +31,7 @@
         "data": {
           "image": "winter2.png",
           "use1Xscale": true,
-          "x": 126,
+          "x": 90,
           "y": 136,
           "locked": false
         }
@@ -61,8 +45,60 @@
           },
           "width": 24,
           "height": 24,
-          "x": 132,
-          "y": 71,
+          "x": 93,
+          "y": 59,
+          "locked": false
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "guide_book.png",
+          "use1Xscale": false,
+          "x": 97,
+          "y": 63,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_programmer",
+          "text": {
+            "fixedValue": "Programmer"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 91,
+          "y": 43,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_prev",
+          "text": "Prev",
+          "isUndecorated": false,
+          "width": 46,
+          "height": 20,
+          "x": 243,
+          "y": 178,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_next",
+          "text": "next",
+          "isUndecorated": false,
+          "width": 46,
+          "height": 20,
+          "x": 291,
+          "y": 178,
           "locked": false
         }
       }

@@ -8,8 +8,7 @@
       "registry_name": "echo_craft",
       "metadata": {
         "files": []
-      },
-      "path": "~/guide_book"
+      }
     },
     {
       "name": "Uiguidebook",
@@ -23,8 +22,7 @@
           "src/main/java/net/winter/echocraft/network/UiguidebookButtonMessage.java",
           "src/main/java/net/winter/echocraft/world/inventory/UiguidebookMenu.java"
         ]
-      },
-      "path": "~/guide_book/GUI"
+      }
     },
     {
       "name": "Bookbutton",
@@ -58,8 +56,7 @@
             "type": "world"
           }
         ]
-      },
-      "path": "~/guide_book/Procedures"
+      }
     },
     {
       "name": "GuideBook",
@@ -72,8 +69,7 @@
           "src/main/java/net/winter/echocraft/item/GuideBookItem.java",
           "src/main/resources/assets/echocraft/models/item/guide_book.json"
         ]
-      },
-      "path": "~/guide_book"
+      }
     },
     {
       "name": "UIguidebookcredits",
@@ -86,8 +82,7 @@
           "src/main/java/net/winter/echocraft/client/gui/UIguidebookcreditsScreen.java",
           "src/main/java/net/winter/echocraft/world/inventory/UIguidebookcreditsMenu.java"
         ]
-      },
-      "path": "~/guide_book/GUI"
+      }
     },
     {
       "name": "Bookbuttoncreditwinter",
@@ -121,8 +116,7 @@
             "type": "world"
           }
         ]
-      },
-      "path": "~/guide_book/Procedures"
+      }
     },
     {
       "name": "Recipeguidebook",
@@ -134,8 +128,7 @@
         "files": [
           "src/main/resources/data/echocraft/recipe/recipeguidebook.json"
         ]
-      },
-      "path": "~/guide_book"
+      }
     }
   ],
   "variable_elements": [],
@@ -159,21 +152,7 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": [
-      {
-        "name": "guide_book",
-        "children": [
-          {
-            "name": "GUI",
-            "children": []
-          },
-          {
-            "name": "Procedures",
-            "children": []
-          }
-        ]
-      }
-    ]
+    "children": []
   },
   "workspaceSettings": {
     "modid": "echocraft",

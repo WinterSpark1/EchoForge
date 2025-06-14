@@ -8,8 +8,7 @@
       "registry_name": "echo_craft",
       "metadata": {
         "files": []
-      },
-      "path": "~/guide_book"
+      }
     },
     {
       "name": "Uiguidebook",
@@ -23,8 +22,7 @@
           "src/main/java/net/winter/echocraft/network/UiguidebookButtonMessage.java",
           "src/main/java/net/winter/echocraft/world/inventory/UiguidebookMenu.java"
         ]
-      },
-      "path": "~/guide_book/GUI"
+      }
     },
     {
       "name": "Bookbutton",
@@ -58,8 +56,7 @@
             "type": "world"
           }
         ]
-      },
-      "path": "~/guide_book/Procedures"
+      }
     },
     {
       "name": "GuideBook",
@@ -72,8 +69,7 @@
           "src/main/java/net/winter/echocraft/item/GuideBookItem.java",
           "src/main/resources/assets/echocraft/models/item/guide_book.json"
         ]
-      },
-      "path": "~/guide_book"
+      }
     },
     {
       "name": "UIguidebookcredits",
@@ -86,8 +82,7 @@
           "src/main/java/net/winter/echocraft/client/gui/UIguidebookcreditsScreen.java",
           "src/main/java/net/winter/echocraft/world/inventory/UIguidebookcreditsMenu.java"
         ]
-      },
-      "path": "~/guide_book/GUI"
+      }
     },
     {
       "name": "Bookbuttoncreditwinter",
@@ -121,8 +116,7 @@
             "type": "world"
           }
         ]
-      },
-      "path": "~/guide_book/Procedures"
+      }
     },
     {
       "name": "Recipeguidebook",
@@ -134,8 +128,7 @@
         "files": [
           "src/main/resources/data/echocraft/recipe/recipeguidebook.json"
         ]
-      },
-      "path": "~/guide_book"
+      }
     }
   ],
   "variable_elements": [],
@@ -147,33 +140,17 @@
       "gui.echocraft.u_iguidebookcredits.tooltip_crea": "Creator of the guide book",
       "item.echocraft.guide_book": "Guide Book",
       "gui.echocraft.uiguidebook.button_item": "Items",
-      "gui.echocraft.u_iguidebookcredits.label_programmer": "Programmer",
+      "gui.echocraft.u_iguidebookcredits.label_programmer": "Role: Programmer",
       "gui.echocraft.uiguidebook.button_tips": "Tips",
       "item_group.echocraft.echo_craft": "Echo Community",
       "gui.echocraft.uiguidebook.button_crafting": "Crafting",
       "gui.echocraft.uiguidebook.button_credit": "Credit",
-      "gui.echocraft.u_iguidebookcredits.button_next": "next",
-      "gui.echocraft.u_iguidebookcredits.label_winterspark": "Winterspark",
-      "gui.echocraft.u_iguidebookcredits.button_prev": "Prev"
+      "gui.echocraft.u_iguidebookcredits.label_winterspark": "Winterspark"
     }
   },
   "foldersRoot": {
     "name": "~",
-    "children": [
-      {
-        "name": "guide_book",
-        "children": [
-          {
-            "name": "GUI",
-            "children": []
-          },
-          {
-            "name": "Procedures",
-            "children": []
-          }
-        ]
-      }
-    ]
+    "children": []
   },
   "workspaceSettings": {
     "modid": "echocraft",
