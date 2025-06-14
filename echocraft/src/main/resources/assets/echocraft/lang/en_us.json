@@ -1,0 +1,11 @@
+{
+  "gui.echocraft.u_iguidebookcredits.tooltip_crea": "Creator of the guide book",
+  "item.echocraft.guide_book": "Guide Book",
+  "gui.echocraft.uiguidebook.button_item": "Items",
+  "gui.echocraft.u_iguidebookcredits.label_programmer": "Role: Programmer",
+  "gui.echocraft.uiguidebook.button_tips": "Tips",
+  "item_group.echocraft.echo_craft": "Echo Community",
+  "gui.echocraft.uiguidebook.button_crafting": "Crafting",
+  "gui.echocraft.uiguidebook.button_credit": "Credit",
+  "gui.echocraft.u_iguidebookcredits.label_winterspark": "Winterspark"
+}

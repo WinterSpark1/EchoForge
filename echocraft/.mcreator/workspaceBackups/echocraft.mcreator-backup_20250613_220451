@@ -1,0 +1,94 @@
+{
+  "mod_elements": [
+    {
+      "name": "EchoCraft",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "echo_craft",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Uiguidebook",
+      "type": "gui",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uiguidebook",
+      "metadata": {
+        "files": [
+          "src/main/java/net/winter/echocraft/client/gui/UiguidebookScreen.java",
+          "src/main/java/net/winter/echocraft/world/inventory/UiguidebookMenu.java"
+        ]
+      }
+    },
+    {
+      "name": "Bookbutton",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bookbutton",
+      "metadata": {
+        "files": [
+          "src/main/java/net/winter/echocraft/procedures/BookbuttonProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "gui.echocraft.uiguidebook.button_item": "Items",
+      "gui.echocraft.uiguidebook.button_tips": "Tips",
+      "item_group.echocraft.echo_craft": "Echo Community",
+      "gui.echocraft.uiguidebook.button_crafting": "Crafting",
+      "gui.echocraft.uiguidebook.button_credit": "Credit"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "echocraft",
+    "modName": "EchoCraft",
+    "version": "1.0.0",
+    "author": "WinterSpark, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.1",
+    "modElementsPackage": "net.winter.echocraft"
+  },
+  "mcreatorVersion": 202500113416
+}

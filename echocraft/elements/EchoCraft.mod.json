@@ -1,0 +1,11 @@
+{
+  "_fv": 77,
+  "_type": "tab",
+  "definition": {
+    "name": "Echo Community",
+    "icon": {
+      "value": "CUSTOM:GuideBook"
+    },
+    "showSearch": true
+  }
+}

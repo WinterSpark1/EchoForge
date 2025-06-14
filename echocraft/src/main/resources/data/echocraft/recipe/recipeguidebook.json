@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "minecraft:dirt"
+    }
+  ],
+  "result": {
+    "id": "echocraft:guide_book",
+    "count": 1
+  }
+}

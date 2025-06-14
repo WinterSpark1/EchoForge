@@ -1,0 +1,43 @@
+{
+  "mod_elements": [
+    {
+      "name": "EchoCraft",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "echo_craft",
+      "metadata": {
+        "files": []
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item_group.echocraft.echo_craft": "Echo Community"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "echocraft",
+    "modName": "EchoCraft",
+    "version": "1.0.0",
+    "author": "WinterSpark, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.1",
+    "modElementsPackage": "net.winter.echocraft"
+  },
+  "mcreatorVersion": 202500113416
+}
